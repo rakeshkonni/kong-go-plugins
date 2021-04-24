@@ -9,3 +9,5 @@ kong version: 2.3.x
 List of plugins installed
 - go plugins in the example
 - https://github.com/nokia/kong-oidc (to showcase external plugin along with custom go plugins)
+
+https://github.com/Kong/kong/issues/6840
