@@ -1,4 +1,4 @@
-FROM golang:1.13.5-stretch AS compiler
+FROM golang:1.14-stretch AS compiler
 
 RUN apt-get update && \
     apt-get upgrade -y && \
